@@ -51,7 +51,7 @@ function Login() {
         <p className="forgot">
           <a href="#">¿Olvidaste tu contraseña?</a>
         </p>
-      
+  
       </div>
     </div>
   )
